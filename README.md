@@ -1,6 +1,6 @@
 # Deep NASDAQ
 
-<img alt="麻烦试用的朋友们给我点个 Star，谢谢大家～ 🥺✨🌟💖" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=22&duration=1&pause=1000&color=FACC15&repeat=false&width=820&lines=%e9%ba%bb%e7%83%a6%e8%af%95%e7%94%a8%e7%9a%84%e6%9c%8b%e5%8f%8b%e4%bb%ac%e7%bb%99%e6%88%91%e7%82%b9%e4%b8%aa+Star%ef%bc%8c%e8%b0%a2%e8%b0%a2%e5%a4%a7%e5%ae%b6%ef%bd%9e+%f0%9f%a5%ba%e2%9c%a8%f0%9f%8c%9f%f0%9f%92%96" />
+麻烦试用的朋友们给我点个 <img alt="Star" src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=18&duration=1&pause=1000&color=FACC15&repeat=false&width=46&height=24&lines=Star" />，谢谢大家～ 🥺✨🌟💖
 
 网站地址：[https://deepnasdaq.com/](https://deepnasdaq.com/)
 

@@ -12,14 +12,12 @@
     <td><code>3DRF6TA7J142</code></td>
     <td><code>0NAFFY75W5C2</code></td>
     <td><code>NYD9VZMYETF9</code></td>
-  </tr>
-  <tr>
     <td><code>9CS7BC5Y7B1D</code></td>
     <td><code>S6JPFCYPXDNP</code></td>
-    <td><code>5GS9TP9H760P</code></td>
-    <td><code>B2MWGA1MXJ7C</code></td>
   </tr>
   <tr>
+    <td><code>5GS9TP9H760P</code></td>
+    <td><code>B2MWGA1MXJ7C</code></td>
     <td><code>WE544229Q073</code></td>
     <td><code>E9R3BX9MG3ZX</code></td>
     <td><code>MWZMB53MGTCC</code></td>
@@ -30,14 +28,12 @@
     <td><code>11H741V033C8</code></td>
     <td><code>DKKF6MYVAAVS</code></td>
     <td><code>EV7JHQCM6XT7</code></td>
-  </tr>
-  <tr>
     <td><code>PWZTHNCWM1X4</code></td>
     <td><code>CVGBNZWC8MME</code></td>
-    <td><code>T3TZ7R0AEWAA</code></td>
-    <td><code>Z2JWFSWM8JRK</code></td>
   </tr>
   <tr>
+    <td><code>T3TZ7R0AEWAA</code></td>
+    <td><code>Z2JWFSWM8JRK</code></td>
     <td><code>GPWKMXGZ5SW0</code></td>
     <td><code>K8E6P2FCYRTD</code></td>
     <td><code>ZPNP26BNVMW6</code></td>
@@ -46,6 +42,8 @@
   <tr>
     <td><code>5WBAZ7WDQ2XT</code></td>
     <td><code>8MX2F82C7QB4</code></td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -59,14 +57,12 @@
     <td><s><code>GRG6SNMTQ4TR</code></s></td>
     <td><s><code>ZKN9A35B895V</code></s></td>
     <td><s><code>SBT8A120HPSE</code></s></td>
-  </tr>
-  <tr>
     <td><s><code>B5P1D5ATK6PN</code></s></td>
     <td><s><code>K32SFNB5K1WW</code></s></td>
-    <td><s><code>C8J3D03BFXYE</code></s></td>
-    <td><s><code>X5QP8QCFSTN9</code></s></td>
   </tr>
   <tr>
+    <td><s><code>C8J3D03BFXYE</code></s></td>
+    <td><s><code>X5QP8QCFSTN9</code></s></td>
     <td><s><code>XVC15C09AYB2</code></s></td>
     <td><s><code>H77W8PFXYRSK</code></s></td>
     <td><s><code>M2M4BPRHA6SH</code></s></td>
@@ -75,6 +71,8 @@
   <tr>
     <td><s><code>YA5BNFCY4132</code></s></td>
     <td><s><code>BR1EJ2GM5APQ</code></s></td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>

@@ -1,5 +1,18 @@
 # Deep NASDAQ
 
+## 尝鲜邀请码
+
+B5P1D5ATK6PN<br/>
+K32SFNB5K1WW<br/>
+C8J3D03BFXYE<br/>
+X5QP8QCFSTN9<br/>
+XVC15C09AYB2<br/>
+H77W8PFXYRSK<br/>
+M2M4BPRHA6SH<br/>
+WJQ1W46WRQ79<br/>
+YA5BNFCY4132<br/>
+BR1EJ2GM5APQ
+
 Deep NASDAQ 是一个面向 A 股市场结构观察的可视化看板，覆盖板块资金流、个股确认、热度与调研、题材生命周期、估值位置、相关性网络、板块传染和指数脱锚等界面。
 
 网站地址：[https://deepnasdaq.com/](https://deepnasdaq.com/)
